@@ -1,3 +1,4 @@
 # Digital_Entrepreneurship_Competition_Public
 디지털 창업 경진대회
-https://github.com/kimdzhekhon/Digital_Entrepreneurship_Competition
+
+제출 링크:ㅣ +https://github.com/kimdzhekhon/Digital_Entrepreneurship_Competition
